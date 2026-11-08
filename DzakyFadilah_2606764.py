@@ -6,3 +6,5 @@ if(90< nilai <=100) :
 elif(80< nilai <=90) :
     print ("nilai anda adalah B+ = Sangat baik")    
 else : print ("nilai anda belum mencukupi")
+
+print ("ngulang")
